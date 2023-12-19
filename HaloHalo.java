@@ -8,7 +8,7 @@ public class HaloHalo {
         this.size = size;
         switch (size){
             case "Small":
-                this.cost = 89.0d;
+                this.cost = 88.0d;
                 break;
             case "Medium":
                 this.cost = 109.0d;
